@@ -1,4 +1,4 @@
-# Deep Learning & Machine Learning Projects
+# Deep Learning Projects
 
 A collection of 9 hands-on projects covering **tabular data, images, text and time series**. Each project follows the same workflow (EDA, visualization, preprocessing, modelling, evaluation) and compares several models, usually a classical or baseline model against a neural network, so the results show *when* deep learning actually helps.
 
